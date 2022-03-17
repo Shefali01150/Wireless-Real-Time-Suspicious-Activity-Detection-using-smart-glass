@@ -10,6 +10,7 @@ This system will have advantage over conventional system as it will continuously
  
  raspberry pi 3,32 Gigabyte memory card,logitech C310 webcam (5 Megapixels),Monitor,HDMI TO VGA cable, NodeMCU ESP8266, Adafruit
  SSD1306 Oled Module,9 volt battery, USB cable. 
+ 
  **Software Requirements:**
  
  Python - libraries used OpenCV,TensorFlow.
