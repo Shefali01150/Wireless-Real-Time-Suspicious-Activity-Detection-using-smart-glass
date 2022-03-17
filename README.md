@@ -1,5 +1,6 @@
 # Wireless-Real-Time-Suspicious-Activity-Detection-using-smart-glass
 Python model training using libraries, after receiving data analyse the blobs using algorithms and then to its classification methods with Raspberry Pi embedded coding to interact with hardware.
+
 **Abstract:**
 
 Today we live in a less secure world. That being said we are constantly under some threat, be it accidents on road or robbery etc. There are number of security systems which are installed to tackle these problems. Instead they record video and consume memory. It does not give any implication about the incident. To tackle these problems a real time suspicious activity detection system should be developed.
